@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ethan "Stefani" Day.
+- 👀 I’m interested in type theory, computer graphics, and sound synthesis.
+- 🌱 I’m currently learning real analysis, working from a text with a constructive approach and using a proof assistant to code my work.  I think constructive type-checking proof assistants have a lot of potential as an assistive technology for mathematics learning.
+- 💞️ I’m looking to collaborate on the design of declarative media-generation interfaces that facilitate aesthetic coherence and graceful quality degradation.
+- 📫 How to reach me: stefanday@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Japan's history during the Tokugawa era shows that it is possible for the arts to flourish under the political context of authoritarian governance.  Spaces on the internet should continue to support shallow pseudonymity.
